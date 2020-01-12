@@ -12,3 +12,5 @@ from torch import nn
 a = torch.FloatTensor([1, 3, 2, 4])
 print(a.size())
 print("HuMeng")
+
+print("HuMeng")
